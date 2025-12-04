@@ -55,6 +55,40 @@ El taller se realizó en Jupyter/Colab y está estructurado en un solo notebook 
 - Exportación de figuras en HTML.
 
 ### 🔸 Exportación de Reportes
-Se exporta un archivo final:
+El proyecto genera múltiples salidas procesadas:
+- **`reporte_ventas.csv`** – Datos agrupados por ciudad con ingresos totales.
+- **`analisis_productos.csv`** – Estadísticas de productos (cantidad promedio, ingreso acumulado).
+- **`graficos_analisis.html`** – Visualizaciones interactivas con Plotly.
 
-S
+---
+
+## 🚀 Cómo Usar
+
+### Requisitos
+- Python 3.7+
+- Librerías: `numpy`, `pandas`, `matplotlib`, `plotly`
+
+### Instalación
+```bash
+pip install numpy pandas matplotlib plotly
+```
+
+### Ejecución
+1. Abre el notebook `01 - ejercicios_pandas_numpy.ipynb` en Jupyter o Google Colab.
+2. Ejecuta las celdas secuencialmente.
+3. Los archivos de salida se generarán automáticamente en el directorio actual.
+
+---
+
+## 📊 Resultados Esperados
+Al completar el taller obtendrás:
+- Comprensión sólida de **NumPy** para cálculos numéricos.
+- Dominio de **Pandas** para manipulación de datos.
+- Habilidad para crear visualizaciones profesionales.
+- Capacidad de generar reportes automatizados en CSV e HTML.
+
+---
+
+## 👨‍💻 Autor
+**Leal Borrero**
+
